@@ -1,3 +1,3 @@
 # Tools
 Random tools and things I've coded.
-* Password Generator - _Powershell_
+* Powershell Password Generator - _passwordgenerator.ps1_
