@@ -8,7 +8,3 @@ Random stuff I've coded.
 ## Games
 * Target Shoot - _targetshoot.py_
 * Blackjack Game - _blackjack.py_
-* Turtle Kart Game - _turtlekart.py_
-
-## Misc
-* Snowy Scene - _snowyscene.py_
