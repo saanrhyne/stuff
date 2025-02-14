@@ -7,4 +7,4 @@ Random stuff I've coded.
 
 ## Games
 * Target Shoot - _targetshoot.py_
-* Blackjack Game - _blackjack.py_
+* Blackjack - _blackjack.py_
