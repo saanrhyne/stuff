@@ -1,5 +1,5 @@
 # Stuff
-Random stuff I've coded.
+Random stuff I've made.
 
 ## Tools
 * Password Generator - _passwordgenerator.ps1_
